@@ -4,7 +4,7 @@
 // Get DOM elements
 
 //Declare empty attempts variable ( set it to 0)
-
+let attempts = 0;
 
 // Function to check the user's guess
 function checkGuess() {
